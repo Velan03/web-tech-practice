@@ -20,7 +20,7 @@ This project consists of a sign-in page and a data table page designed with HTML
 
 ## Demo
 
-You can view a live demo of the project(http://127.0.0.1:5500/Sign-In/index.html).
+You can view a live demo of the project(https://web-tech-practice.vercel.app/).
 
 ## Features
 
